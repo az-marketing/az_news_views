@@ -1,0 +1,9 @@
+{
+  "name": "az-marketing/az_news_views",
+  "description": "Composer project template for custom Quickstart module.",
+  "type": "drupal-custom-module",
+  "require": {
+      "drupal/core": "^9",
+      "drupal/google_analytics_counter":"^4.0@alpha"
+  }
+}
